@@ -16,3 +16,10 @@
       8. Configure terminal emulator [Use MinTTY. Click "Next >"]
       9. Configure extra options [Disable all. Click "Next >"]
       10. Click "Install"
+    Unix/Linux
+    ##########
+    apt-get install git #Ubuntu have git by default
+
+GitHub
+######
+https://github.com/login - URL to be used to loginto GITHUB to create a GIT repository
