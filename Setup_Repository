@@ -1,0 +1,18 @@
+  GIT
+  ###
+    Windows
+    #######
+    https://git-scm.com/ - URL to be used to download the GIT client
+    Click Downloads --> Windows (Save the exe file. This file is used for installation)
+      Installation instructions
+      #########################
+      1. Double click the .exe file downloaded
+      2. Accept the License [Click "Next >"]
+      3. Choose Components to be installed [Enable Additonal Icons, On the desktop. Click "Next >"]
+      4. Choose the editor [vim is the default editor. Click "Next >"]
+      5. Adjust PATH variable [Use Git from Git Bash only. Click "Next >"]
+      6. Choose HTTPS transport backend [Use the OpenSSL library. Click "Next >"]
+      7. Configure line ending conversions [Chekout windows style Commit Unix style. Click "Next >"]
+      8. Configure terminal emulator [Use MinTTY. Click "Next >"]
+      9. Configure extra options [Disable all. Click "Next >"]
+      10. Click "Install"
